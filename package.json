@@ -36,7 +36,6 @@
     "sitemap.xml"
   ],
   "dependencies": {
-    "phantomjs": "^1.7.1",
     "xml2js": "~0.2.7",
     "async": "~0.2.10",
     "underscore": "~1.6.0",
